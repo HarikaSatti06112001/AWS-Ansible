@@ -1,5 +1,5 @@
 # AWS-Ansible
-#Installing Ansible
+#Ansible
 sudo apt-get update
 sudo apt install software-properties-common
 sudo apt-add-repository ppa:ansible/ansible
